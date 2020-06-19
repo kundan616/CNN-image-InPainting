@@ -7,4 +7,4 @@ STEPS:<br>
 2. give the variable  image_folder path to the folder containing images (eg. image_folder='val2017/')<br>
 3. create two folders named pro and norm for storing processed immages<br>
 
-<img src="/images/17.jpg">
+<img src="/image/17.jpg">
